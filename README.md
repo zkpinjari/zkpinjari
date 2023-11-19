@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zkpinjari
+- 👋 Hi, I’m @ Zakirhusen Pinjari
 - 👀 I’m interested in Datascience & Analytics
 - 🌱 I’m currently learning Datascience & Analytics
 - 💞️ I’m looking to collaborate on Datatrained 
