@@ -2,7 +2,7 @@
 - 👀 I’m interested in Datascience & Analytics
 - 🌱 I’m currently learning Datascience & Analytics
 - 💞️ I’m looking to collaborate on Datatrained 
-- 📫 How to reach me ...
+- 📫 How to reach me ... email: zkpinjari@gmail.com
 
 <!---
 zkpinjari/zkpinjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
